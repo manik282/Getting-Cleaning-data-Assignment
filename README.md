@@ -14,7 +14,7 @@ The output is the data file tidy_data.txt
 
 
 ## Libraries required
-data.table, reshape2, dplyr: All are installed as part of the code in case they haven't been installed earlier
+data.table, reshape2, dplyr: All are installed as part of the code in case they aren't installed earlier
 
 ## Data & file locations semantics 
 Create a folder to place the following two peice of content
