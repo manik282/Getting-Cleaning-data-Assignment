@@ -20,4 +20,6 @@ data.table, reshape2, dplyr: All are installed as part of the code in case they 
 Create a folder to place the following two peice of content
 * The R code run_analysis.R 
 * UCI HAR Dataset folder
-This folder needs to be made the working directory in R. Then, run source("run_analysis.R") in this working directory to generate a new file tiny_data.txt
+This folder needs to be made the working directory in R
+
+Then, run source("run_analysis.R") in this working directory to generate a new file tiny_data.txt
