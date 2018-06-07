@@ -1,4 +1,4 @@
-# Getting-Cleaning-data-Assignment
+# Getting and Cleaning data Assignment
 
 ## Code workflow
 
